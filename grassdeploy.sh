@@ -24,6 +24,10 @@ fi
 echo "Installing Python dependencies..."
 pip3 install --upgrade --user pip
 pip3 install --user loguru fake-useragent websockets
+pip3 install aiohttp
+pip3 install websockets
+pip3 install fake-useragent
+pip3 install loguru
 
 # Add the user's local bin directory to PATH
 export PATH="$HOME/.local/bin:$PATH"
