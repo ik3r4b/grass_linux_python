@@ -1,6 +1,6 @@
 # grass_linux_python
 
-**Run your Grass mining as a service in just a few seconds!**
+**Run your Grass mining in Raspberry/Linux as a service in just a few seconds!**
 
 ## **Description**
 
