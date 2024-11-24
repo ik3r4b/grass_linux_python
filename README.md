@@ -1,5 +1,5 @@
 # grass_linux_python
-Run your grass mining as a service
+Run your grass mining as a service in few seconds!
 
 
 1- Get your user id with the console:
