@@ -40,6 +40,8 @@ Follow these simple steps to set up the service:
    ```bash
    _user_id = '89f963fc-f72f-4a00-af43-cbb151c5a587'  # Replace with your user ID
 
+4. **Replace** with your user ID
+5. **Execute** ```bash sudo bash grassdeploy.sh 
 ----------------------------------------------
 
 🎉 **Earn 5000 Points by Registering with My Referral Link!** 🎉
